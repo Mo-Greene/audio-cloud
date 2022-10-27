@@ -9,5 +9,4 @@ public class AudioCloudApplication {
     public static void main(String[] args) {
         SpringApplication.run(AudioCloudApplication.class, args);
     }
-
 }
