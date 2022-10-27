@@ -10,3 +10,4 @@ public class AudioCloudApplication {
         SpringApplication.run(AudioCloudApplication.class, args);
     }
 }
+
